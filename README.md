@@ -6,6 +6,8 @@
 
 - **Show REM Unit Next to PX**: Automatically displays the equivalent rem value next to px values as inline decorations when the extension is activated.
 
+![pixelstorem](<Screenshot 2025-02-04 at 11.39.36.png>)
+
 ### Show REM Unit Next to PX
 
 When the extension is activated, it will automatically display the equivalent rem value next to px values in your code. The rem values are shown in a ghost-like format (gray and italic) next to the px values.
@@ -32,6 +34,8 @@ This extension does not add any VS Code settings through the `contributes.config
 ## Usage
 
 1. **Show REM Unit Next to PX**: When you open a document with px values, the extension will automatically display the equivalent rem values next to the px values.
+
+
 
 ## Contributing
 
