@@ -47,5 +47,10 @@
     "webpack": "^5.95.0",
     "webpack-cli": "^5.1.4"
   },
-  "publisher": "sharmamayank221"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharmamayank221/pixeltoremunit.git"
+  },
+  "publisher": "sharmamayank221",
+  "icon": "pixelstorem.png"
 }
