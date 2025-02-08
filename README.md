@@ -7,15 +7,12 @@
 - **Show REM Unit Next to PX**: Automatically displays the equivalent rem value next to px values as inline decorations when the extension is activated.
 BEFORE:
 
-![alt text](<Screenshot 2025-02-08 at 09.34.22.png>)
-
-AFTER:
-
-![alt text](<Screenshot 2025-02-08 at 09.34.34.png>)
+]
 
 ### Show REM Unit Next to PX
 
 When the extension is activated, it will automatically display the equivalent rem value next to px values in your code. The rem values are shown in a ghost-like format (gray and italic) next to the px values.
+
 
 ## Requirements
 
