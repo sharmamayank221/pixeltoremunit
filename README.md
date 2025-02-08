@@ -7,7 +7,7 @@
 - **Show REM Unit Next to PX**: Automatically displays the equivalent rem value next to px values as inline decorations when the extension is activated.
 BEFORE:
 
-]
+![](https://github.com/sharmamayank221/pixeltoremunit/blob/main/pixelstorem.gif)
 
 ### Show REM Unit Next to PX
 
