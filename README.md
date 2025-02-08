@@ -5,8 +5,13 @@
 ## Features
 
 - **Show REM Unit Next to PX**: Automatically displays the equivalent rem value next to px values as inline decorations when the extension is activated.
+BEFORE:
 
-![pixelstorem](<Screenshot 2025-02-04 at 11.39.36.png>)
+![alt text](<Screenshot 2025-02-08 at 09.34.22.png>)
+
+AFTER:
+
+![alt text](<Screenshot 2025-02-08 at 09.34.34.png>)
 
 ### Show REM Unit Next to PX
 
